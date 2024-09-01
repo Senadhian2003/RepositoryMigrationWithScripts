@@ -1,0 +1,3 @@
+python repo-migration-script.py repo-names.txt Senadhian2003 senadhiang RepositoryMigration fknaeyvbofim2xwsxfa2egiiytlbccyljitgyspqlw7dvyh2jc4q
+
+python direct-repo-migration-script.py repo-names.txt Senadhian2003 senadhiang RepositoryMigration fknaeyvbofim2xwsxfa2egiiytlbccyljitgyspqlw7dvyh2jc4q
